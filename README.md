@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Life Journey Grid
 
-## Getting Started
+## a fullfilled life
 
-First, run the development server:
+Ce projet a pour but de permettre de voir à quelle point notre vie est remplie mais surtout que le temps qui la compose s'écoule bien trop vite.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Il s'agit d'une grille, une simple grille de 5200 semaines correspondant à ce que 1 humain sur 20 pourra vivre pendant les 100 ans d'espérence de vie qu'il aura. Ce temps sera plus court pour la plus grande majorité d'entre nous mais voir de quoi la vie est faite pour cet humain sur 20, donnera surement aux autres la mesure des choses.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A titre d'exemple, si l'on considère que l'enfance dure jusqu'à 12 ans en moyenne, cela correspond à 624 semaines sur 5200.
+Lorsque vous aurez le droit de boire et de conduire en France 🇫🇷, près de 1000 semaines se seront écoulées (936 pour être précis).
+Le temps passé avec vos parents, si vous les quittez dans la vingtaine, sera de 1040 semaines et si vou les voyez à toutes les vacances (5 semaines par an) pendant les 40 années suivantes, vous n'en ajouterez que 200. La majorité du temps passé avec eux est déja écoulé au moment où vous lisez ces lignes.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+C'est l'essence meme de ce projet, montrer visuellement le temps passé à l'éduction, au travail, aux loisirs, à la famille et aux amis, sur une très grande échelle de temps afin qu'à la lecture de ces statistiques de votre vie, vous vous disiez "Et si j'appelais ma soeur aujourd'hui?" ou "Et si je commençais maintenant cette activité que je veux faire plus tard?".
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Le temps est court et précieux pour cette vie et j'espère vous aider à vous le prouver.
 
-## Learn More
+inspiration: ["Que faites-vous de votre vie ? La toute fin"](https://youtu.be/d35JQvaEen0?si=kHxNePh8qWJTdVRF) de la chaine Tout Simplement – Kurzgesagt
 
-To learn more about Next.js, take a look at the following resources:
+## Techno
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
