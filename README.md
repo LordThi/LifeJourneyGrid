@@ -1,5 +1,7 @@
 # Life Journey Grid
 
+![5200 weeks](public/5200weeks.png)
+
 ## a fullfilled life
 
 Ce projet a pour but de permettre de voir à quelle point notre vie est remplie mais surtout que le temps qui la compose s'écoule bien trop vite.
