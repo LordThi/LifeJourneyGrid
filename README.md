@@ -8,7 +8,7 @@ Il s'agit d'une grille, une simple grille de 5200 semaines correspondant à ce q
 
 A titre d'exemple, si l'on considère que l'enfance dure jusqu'à 12 ans en moyenne, cela correspond à 624 semaines sur 5200.
 Lorsque vous aurez le droit de boire et de conduire en France 🇫🇷, près de 1000 semaines se seront écoulées (936 pour être précis).
-Le temps passé avec vos parents, si vous les quittez dans la vingtaine, sera de 1040 semaines et si vou les voyez à toutes les vacances (5 semaines par an) pendant les 40 années suivantes, vous n'en ajouterez que 200. La majorité du temps passé avec eux est déja écoulé au moment où vous lisez ces lignes.  
+Le temps passé avec vos parents, si vous les quittez dans la vingtaine, sera de 1040 semaines et si vous les voyez à toutes les vacances (5 semaines par an) pendant les 40 années suivantes, vous n'en ajouterez que 200. La majorité du temps passé avec eux est déja écoulé au moment où vous lisez ces lignes.  
 
 C'est l'essence meme de ce projet, montrer visuellement le temps passé à l'éduction, au travail, aux loisirs, à la famille et aux amis, sur une très grande échelle de temps afin qu'à la lecture de ces statistiques de votre vie, vous vous disiez "Et si j'appelais ma soeur aujourd'hui?" ou "Et si je commençais maintenant cette activité que je veux faire plus tard?".
 
